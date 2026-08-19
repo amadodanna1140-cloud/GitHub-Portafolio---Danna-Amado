@@ -1,8 +1,8 @@
 # 🐾 Smart Pet Feeder
 
 <p align="center">
-  <img width="400" alt="Smart Pet Feeder - Prototipo final" src="https://github.com/user-attachments/assets/879790db-81cd-46e1-a618-0ad2ec88f9ff" />
-  <img width="400" alt="Smart Pet Feeder - Prototipo final" src="https://github.com/user-attachments/assets/2eb52929-e004-4654-aae5-2f3fcacd3e7f"/>
+  <img width="200" alt="Smart Pet Feeder - Prototipo final" src="https://github.com/user-attachments/assets/879790db-81cd-46e1-a618-0ad2ec88f9ff" />
+  <img width="200" alt="Smart Pet Feeder - Prototipo final" src="https://github.com/user-attachments/assets/2eb52929-e004-4654-aae5-2f3fcacd3e7f"/>
 </p>
 <p align="center">
   <em>Vista exterior y distribución interna del Smart Pet Feeder.</em>
@@ -172,7 +172,7 @@ A continuación se muestran algunos elementos del proceso de diseño, construcci
 
 **Esquema del sistema**
 
-<img width="850" alt="Esquema del sistema" src="https://github.com/user-attachments/assets/cd8369ee-6005-471d-a531-c5f9346c5a47" />
+<img width="100" alt="Esquema del sistema" src="https://github.com/user-attachments/assets/cd8369ee-6005-471d-a531-c5f9346c5a47" />
 
 ---
 
@@ -180,7 +180,7 @@ A continuación se muestran algunos elementos del proceso de diseño, construcci
 
 **Unión y conexión de componentes**
 
-<img width="550" alt="Unión de componentes" src="https://github.com/user-attachments/assets/cc0c5e4b-a7b4-4318-87ba-e1a7bfefecfd" />
+<img width="100" alt="Unión de componentes" src="https://github.com/user-attachments/assets/cc0c5e4b-a7b4-4318-87ba-e1a7bfefecfd" />
 
 ---
 
@@ -190,7 +190,7 @@ Durante el desarrollo se realizaron diferentes pruebas de programación y proces
 
 **Errores encontrados durante la programación**
 
-<img width="650" alt="Errores de programación" src="https://github.com/user-attachments/assets/84c932b5-7afa-4069-b3ff-caf46472624d" />
+<img width="100" alt="Errores de programación" src="https://github.com/user-attachments/assets/84c932b5-7afa-4069-b3ff-caf46472624d" />
 
 ---
 
@@ -220,7 +220,7 @@ Antes de integrar la versión final con Arduino Nano, se utilizó un **Arduino U
 
 Esta etapa permitió comprobar el funcionamiento del sistema, verificar la comunicación entre los diferentes componentes y realizar las pruebas necesarias antes de implementar la versión final del prototipo.
 
-<img width="750" alt="Prototipo funcional con Arduino UNO" src="https://github.com/user-attachments/assets/e9c1ffae-84ce-48de-8f8f-f8c3e1f1c354"/>
+<img width="150" alt="Prototipo funcional con Arduino UNO" src="https://github.com/user-attachments/assets/e9c1ffae-84ce-48de-8f8f-f8c3e1f1c354"/>
 
 <p align="center">
   <em>Montaje del prototipo durante la etapa de pruebas y validación.</em>
