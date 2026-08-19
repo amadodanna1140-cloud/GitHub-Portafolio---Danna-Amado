@@ -172,7 +172,7 @@ A continuación se muestran algunos elementos del proceso de diseño, construcci
 
 **Esquema del sistema**
 
-<img width="100" alt="Esquema del sistema" src="https://github.com/user-attachments/assets/cd8369ee-6005-471d-a531-c5f9346c5a47" />
+<img width="250" alt="Esquema del sistema" src="https://github.com/user-attachments/assets/cd8369ee-6005-471d-a531-c5f9346c5a47" />
 
 ---
 
@@ -180,7 +180,7 @@ A continuación se muestran algunos elementos del proceso de diseño, construcci
 
 **Unión y conexión de componentes**
 
-<img width="100" alt="Unión de componentes" src="https://github.com/user-attachments/assets/cc0c5e4b-a7b4-4318-87ba-e1a7bfefecfd" />
+<img width="250" alt="Unión de componentes" src="https://github.com/user-attachments/assets/cc0c5e4b-a7b4-4318-87ba-e1a7bfefecfd" />
 
 ---
 
@@ -190,7 +190,7 @@ Durante el desarrollo se realizaron diferentes pruebas de programación y proces
 
 **Errores encontrados durante la programación**
 
-<img width="100" alt="Errores de programación" src="https://github.com/user-attachments/assets/84c932b5-7afa-4069-b3ff-caf46472624d" />
+<img width="250" alt="Errores de programación" src="https://github.com/user-attachments/assets/84c932b5-7afa-4069-b3ff-caf46472624d" />
 
 ---
 
@@ -198,7 +198,7 @@ Durante el desarrollo se realizaron diferentes pruebas de programación y proces
 
 **Construcción inicial del prototipo**
 
-<img width="750" alt="Construcción inicial" src="https://github.com/user-attachments/assets/169d744f-3d33-4a4e-a0b3-3c27c5cbaac5" />
+<img width="500" alt="Construcción inicial" src="https://github.com/user-attachments/assets/169d744f-3d33-4a4e-a0b3-3c27c5cbaac5" />
 
 ---
 
@@ -206,11 +206,11 @@ Durante el desarrollo se realizaron diferentes pruebas de programación y proces
 
 **Archivos STL utilizados para la fabricación de la estructura**
 
-<img width="750" alt="Archivos STL" src="https://github.com/user-attachments/assets/4949303a-4e06-4e2f-8648-79cdbc450688" />
+<img width="500" alt="Archivos STL" src="https://github.com/user-attachments/assets/4949303a-4e06-4e2f-8648-79cdbc450688" />
 
 **Prototipo físico**
 
-<img width="750" alt="Prototipo físico" src="https://github.com/user-attachments/assets/f61c2f28-04c3-4774-b276-6aa06e4b09fa" />
+<img width="500" alt="Prototipo físico" src="https://github.com/user-attachments/assets/f61c2f28-04c3-4774-b276-6aa06e4b09fa" />
 
 ---
 
@@ -220,8 +220,9 @@ Antes de integrar la versión final con Arduino Nano, se utilizó un **Arduino U
 
 Esta etapa permitió comprobar el funcionamiento del sistema, verificar la comunicación entre los diferentes componentes y realizar las pruebas necesarias antes de implementar la versión final del prototipo.
 
-<img width="150" alt="Prototipo funcional con Arduino UNO" src="https://github.com/user-attachments/assets/e9c1ffae-84ce-48de-8f8f-f8c3e1f1c354"/>
-
+<p align="center">
+<img width="200" alt="Prototipo funcional con Arduino UNO" src="https://github.com/user-attachments/assets/e9c1ffae-84ce-48de-8f8f-f8c3e1f1c354"/>
+</p>
 <p align="center">
   <em>Montaje del prototipo durante la etapa de pruebas y validación.</em>
 </p>
