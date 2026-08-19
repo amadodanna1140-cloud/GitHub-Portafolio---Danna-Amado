@@ -158,5 +158,19 @@ Uno de los principales aprendizajes fue el proceso de **prueba, identificación 
 
 ## 📸 Galería
 
-> Próximamente se añadirán fotografías del prototipo, componentes, proceso de construcción y resultado final.
+Esquema: 
+<img width="1302" height="733" alt="Esquema" src="https://github.com/user-attachments/assets/cd8369ee-6005-471d-a531-c5f9346c5a47" />
+Unión de Componentes: 
+<img width="429" height="241" alt="Componentes" src="https://github.com/user-attachments/assets/cc0c5e4b-a7b4-4318-87ba-e1a7bfefecfd" />
+Algunos errores de programación: 
+<img width="335" height="53" alt="Errores" src="https://github.com/user-attachments/assets/84c932b5-7afa-4069-b3ff-caf46472624d" />
+Construcción inicial: 
+<img width="664" height="290" alt="Construcción_incial" src="https://github.com/user-attachments/assets/169d744f-3d33-4a4e-a0b3-3c27c5cbaac5" />
+Parte Física: 
+- Archivos .stl
+<img width="682" height="346" alt="Archivos.stl" src="https://github.com/user-attachments/assets/4949303a-4e06-4e2f-8648-79cdbc450688" />
+- Prototipo: 
+<img width="694" height="410" alt="Prototipo" src="https://github.com/user-attachments/assets/f61c2f28-04c3-4774-b276-6aa06e4b09fa" />
+
+
 
