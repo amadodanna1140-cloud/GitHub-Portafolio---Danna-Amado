@@ -141,11 +141,6 @@ También se planteó una segunda etapa de evolución mediante la incorporación 
 * 📷 Cámara para supervisar a la mascota.
 * 🔊 Bocina o micrófono para añadir funcionalidades de comunicación y monitoreo desde la aplicación.
 
-## 📚 Documentación
-
-La documentación del proceso de construcción, materiales y desarrollo del prototipo se encuentra disponible en:
-
-> Próximamente se añadirán al repositorio documentos técnicos, fotografías y otros recursos relacionados con el desarrollo.
 
 ## 🧠 Aprendizajes
 
